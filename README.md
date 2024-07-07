@@ -31,7 +31,7 @@ This project is a puzzle game developed in Java. The application allows users to
 
 1. **Clone the Repository**: 
     ```
-    git clone https://github.com/SalwaSh/SE324-Puzzle-Game-Phase2.git
+    git clone https://github.com/sana-shamma/SE324-Puzzle-Game-Desktop.git
     ```
 2. **Open the Project** in your preferred Java IDE.
 3. **Run the Application**:
